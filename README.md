@@ -1,4 +1,4 @@
 Test dart application with 
-- Google visualisaiton
+- Google visualisation
 - Polymer.dart
 - Google App enginee
